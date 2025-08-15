@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mixdmatches.github.io/</id>
+    <title>下饭小窝</title>
+    <updated>2025-08-15T13:39:01.602Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>陈下饭</name>
+        <email>1919600547@qq.com</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://mixdmatches.github.io/"/>
+    <link rel="self" href="https://mixdmatches.github.io/atom.xml"/>
+    <subtitle>无限进步</subtitle>
+    <logo>https://mixdmatches.github.io/images/avatar.png</logo>
+    <icon>https://mixdmatches.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 陈下饭</rights>
+    <entry>
+        <title type="html"><![CDATA[mixed matches的live house]]></title>
+        <id>https://mixdmatches.github.io/posts/go!LiveHouse</id>
+        <link href="https://mixdmatches.github.io/posts/go!LiveHouse"/>
+        <updated>2025-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>哼哼，刚发工资就去买mm上海演出的票了( •̀ ω •́ )y</p>
+<blockquote>
+<p>喜欢mm快四年了，终于要来中国演出了，一直很喜欢他的歌，有些社交帐号只能英文昵称，我一般就用他的艺名，比如github😝 ~~</p>
+</blockquote>
+<br/><p>访问 <a href="https://mixdmatches.github.io/posts/go!LiveHouse" target="_blank">https://mixdmatches.github.io/posts/go!LiveHouse</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>陈下饭</name>
+            <email>1919600547@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-15T13:38:02.094Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三次面试-江苏健康无忧]]></title>
+        <id>https://mixdmatches.github.io/posts/third-interview</id>
+        <link href="https://mixdmatches.github.io/posts/third-interview"/>
+        <updated>2025-05-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>第三次面试-2025年5月14日-江苏健康无忧</h2>
+<ol>
+<li>自我介绍</li>
+<li>js有哪些基础类型，引用类型？</li>
+<li>怎么区分是基础类型还是引用类型</li>
+<li>typeof可以判断哪些类型，可以判断数组吗</li>
+</ol>
+<br/><p>访问 <a href="https://mixdmatches.github.io/posts/third-interview" target="_blank">https://mixdmatches.github.io/posts/third-interview</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>陈下饭</name>
+            <email>1919600547@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-15T13:38:02.094Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第五次面试-美团一面]]></title>
+        <id>https://mixdmatches.github.io/posts/fifth-interview</id>
+        <link href="https://mixdmatches.github.io/posts/fifth-interview"/>
+        <updated>2025-08-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>第五次面试-2025年8月12日-美团一面 1h</h2>
+<p>距离上一次面试是两个月前了，生疏了啊都</p>
+<ol>
+<li>自我介绍</li>
+<li>现在是在这家公司正在实习吗，为什么要重新找呢？</li>
+<li>说一下你在实习公司里做</li>
+</ol>
+<br/><p>访问 <a href="https://mixdmatches.github.io/posts/fifth-interview" target="_blank">https://mixdmatches.github.io/posts/fifth-interview</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>陈下饭</name>
+            <email>1919600547@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-15T13:38:02.093Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第四次面试-北新]]></title>
+        <id>https://mixdmatches.github.io/posts/fourth-interview</id>
+        <link href="https://mixdmatches.github.io/posts/fourth-interview"/>
+        <updated>2025-06-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>第二次面试-2025年6月6日-北新</h2>
+<ol>
+<li>自我介绍，被打断了</li>
+<li>你这个AI对话流式响应怎么做的</li>
+<li>讲讲你在开发项目的时候有没有遇到过困扰很久的问题最后解决掉的</li>
+<li>你这个组件库项目</li>
+</ol>
+<br/><p>访问 <a href="https://mixdmatches.github.io/posts/fourth-interview" target="_blank">https://mixdmatches.github.io/posts/fourth-interview</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>陈下饭</name>
+            <email>1919600547@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-15T13:38:02.093Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重生之搭建个人博客]]></title>
+        <id>https://mixdmatches.github.io/posts/hello-valaxy</id>
+        <link href="https://mixdmatches.github.io/posts/hello-valaxy"/>
+        <updated>2025-08-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>为何要搭建一个博客</h2>
+<p>说来话长，去年年底，我深刻意识到自己在语言表达和沟通方面存在不足，无法完美地表达自己的想法。那时便萌生了写文章的想法。经常浏览掘金时，看到许多技术文章，不禁思考：如果自己</p>
+<br/><p>访问 <a href="https://mixdmatches.github.io/posts/hello-valaxy" target="_blank">https://mixdmatches.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>陈下饭</name>
+            <email>1919600547@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-08-13T00:00:00.000Z</published>
+    </entry>
+</feed>

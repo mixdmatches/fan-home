@@ -1,0 +1,74 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "下饭小窝",
+    "home_page_url": "https://mixdmatches.github.io/",
+    "feed_url": "https://mixdmatches.github.io/feed.json",
+    "description": "无限进步",
+    "icon": "https://mixdmatches.github.io/images/avatar.png",
+    "author": {
+        "name": "陈下饭",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://mixdmatches.github.io/posts/go!LiveHouse",
+            "content_html": "<p>哼哼，刚发工资就去买mm上海演出的票了( •̀ ω •́ )y</p>\n<blockquote>\n<p>喜欢mm快四年了，终于要来中国演出了，一直很喜欢他的歌，有些社交帐号只能英文昵称，我一般就用他的艺名，比如github😝 ~~</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://mixdmatches.github.io/posts/go!LiveHouse\" target=\"_blank\">https://mixdmatches.github.io/posts/go!LiveHouse</a> 阅读全文。</p>",
+            "url": "https://mixdmatches.github.io/posts/go!LiveHouse",
+            "title": "mixed matches的live house",
+            "date_modified": "2025-08-14T00:00:00.000Z",
+            "date_published": "2025-08-15T13:38:02.094Z",
+            "author": {
+                "name": "陈下饭",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://mixdmatches.github.io/posts/third-interview",
+            "content_html": "<h2>第三次面试-2025年5月14日-江苏健康无忧</h2>\n<ol>\n<li>自我介绍</li>\n<li>js有哪些基础类型，引用类型？</li>\n<li>怎么区分是基础类型还是引用类型</li>\n<li>typeof可以判断哪些类型，可以判断数组吗</li>\n</ol>\n<br/><p>访问 <a href=\"https://mixdmatches.github.io/posts/third-interview\" target=\"_blank\">https://mixdmatches.github.io/posts/third-interview</a> 阅读全文。</p>",
+            "url": "https://mixdmatches.github.io/posts/third-interview",
+            "title": "第三次面试-江苏健康无忧",
+            "date_modified": "2025-05-14T00:00:00.000Z",
+            "date_published": "2025-08-15T13:38:02.094Z",
+            "author": {
+                "name": "陈下饭",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://mixdmatches.github.io/posts/fifth-interview",
+            "content_html": "<h2>第五次面试-2025年8月12日-美团一面 1h</h2>\n<p>距离上一次面试是两个月前了，生疏了啊都</p>\n<ol>\n<li>自我介绍</li>\n<li>现在是在这家公司正在实习吗，为什么要重新找呢？</li>\n<li>说一下你在实习公司里做</li>\n</ol>\n<br/><p>访问 <a href=\"https://mixdmatches.github.io/posts/fifth-interview\" target=\"_blank\">https://mixdmatches.github.io/posts/fifth-interview</a> 阅读全文。</p>",
+            "url": "https://mixdmatches.github.io/posts/fifth-interview",
+            "title": "第五次面试-美团一面",
+            "date_modified": "2025-08-12T00:00:00.000Z",
+            "date_published": "2025-08-15T13:38:02.093Z",
+            "author": {
+                "name": "陈下饭",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://mixdmatches.github.io/posts/fourth-interview",
+            "content_html": "<h2>第二次面试-2025年6月6日-北新</h2>\n<ol>\n<li>自我介绍，被打断了</li>\n<li>你这个AI对话流式响应怎么做的</li>\n<li>讲讲你在开发项目的时候有没有遇到过困扰很久的问题最后解决掉的</li>\n<li>你这个组件库项目</li>\n</ol>\n<br/><p>访问 <a href=\"https://mixdmatches.github.io/posts/fourth-interview\" target=\"_blank\">https://mixdmatches.github.io/posts/fourth-interview</a> 阅读全文。</p>",
+            "url": "https://mixdmatches.github.io/posts/fourth-interview",
+            "title": "第四次面试-北新",
+            "date_modified": "2025-06-06T00:00:00.000Z",
+            "date_published": "2025-08-15T13:38:02.093Z",
+            "author": {
+                "name": "陈下饭",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://mixdmatches.github.io/posts/hello-valaxy",
+            "content_html": "<h2>为何要搭建一个博客</h2>\n<p>说来话长，去年年底，我深刻意识到自己在语言表达和沟通方面存在不足，无法完美地表达自己的想法。那时便萌生了写文章的想法。经常浏览掘金时，看到许多技术文章，不禁思考：如果自己</p>\n<br/><p>访问 <a href=\"https://mixdmatches.github.io/posts/hello-valaxy\" target=\"_blank\">https://mixdmatches.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://mixdmatches.github.io/posts/hello-valaxy",
+            "title": "重生之搭建个人博客",
+            "date_modified": "2025-08-12T00:00:00.000Z",
+            "date_published": "2025-08-13T00:00:00.000Z",
+            "author": {
+                "name": "陈下饭",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
